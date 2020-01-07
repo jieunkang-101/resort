@@ -1,13 +1,18 @@
 body {
-  color: #033B49;
-  background-color: #F2F7C6;
-  text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #B21368;
+  background-color:#EFD3B5;
+  font-family: sans-serif;
 }
 
 h3 {
-  color: #084E5F;
-  font-style: italic;
+  text-decoration: underline;
+  color: #5F093D;
+  font-size: 24px;
+}
+
+h1 {
+  color: #5F093D;
+  font-size: 50px;
 }
 
 ul {
