@@ -1,0 +1,16 @@
+h1 {
+  color: #033B49;
+  background-color: #F2F7C6;
+}
+
+h3 {
+  color: #084E5F;
+}
+
+body {
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+}
