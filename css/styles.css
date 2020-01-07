@@ -1,11 +1,12 @@
 body {
   color: #B21368;
   background-color:#EFD3B5;
-  font-family: sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
 }
 
 h3 {
-  text-decoration: underline;
+  font-style: italic;
   color: #5F093D;
   font-size: 24px;
 }
