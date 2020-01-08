@@ -1,26 +1,40 @@
 body {
-  color: #B21368;
-  background-color:#EFD3B5;
+  color: #1F3529;
+  background-image: url("https://robbreportedit.files.wordpress.com/2019/04/waldorf-astoria-maldives-ithaafushi-aerial-view.jpg?w=660");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #EFD3B5;
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 
 h3 {
+  margin-top: 40px;
   font-style: italic;
   color: #5F093D;
   font-size: 24px;
 }
 
 h1 {
+  margin-top: 250px;
   color: #5F093D;
   font-size: 50px;
 }
 
 ul {
   list-style-position: inside;
+  font-weight: bold;
 }
 
 img {
   width: 350px;
   height: auto;
+}
+
+p {
+  font-weight: bold;
+}
+
+a {
+  color: #1F3529;
 }
